@@ -18,7 +18,7 @@ My first assignment is to analyze the district-wide standardized test results. I
 **School Size and Performance:** Larger schools exhibited a lower overall passing rate compared to schools with smaller student populations.
 
 **District vs. Charter Schools:** All district schools had a passing rate below 60%, whereas charter schools consistently achieved passing rates of 90% or higher.
----
+
 
 ### Data Interpretation
 Overall Implications:
